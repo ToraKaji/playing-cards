@@ -1,4 +1,4 @@
-package cnm.edu.deepdive;
+package edu.cnm.deepdive;
 
 public enum Suit {
   CLUBS(Color.BLACK, '\u2663'),

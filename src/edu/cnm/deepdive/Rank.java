@@ -1,4 +1,4 @@
-package cnm.edu.deepdive;
+package edu.cnm.deepdive;
 
 public enum Rank {
   ACE(1, "A"),
